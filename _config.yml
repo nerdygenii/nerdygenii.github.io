@@ -23,7 +23,7 @@ timezone: Africa/Lagos
 
 title: Nerdy                          # the main title
 
-tagline: A noob forever  # it will display as the sub-title
+tagline: "Real power is forged from the desire smoldering in the heart. It fans into a flame and begins to burn with an intensity scarcely imagined to be possible"  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
