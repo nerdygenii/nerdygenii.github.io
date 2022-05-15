@@ -4,12 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 ##  Whoami?
-  > Hey there! I'm Abdulrahman Oyekunle, a Cybersecurity enthusiast, currently studying my Bsc in Cyber Security.I love anime, Cyber related stuffs and i love food too
+  > Hey there! I'm Abdulrahman Oyekunle, a Cybersecurity enthusiast, currently studying my Bsc in Cyber Security.I love anime, i love learning,practicing, hunting for knowledge like Orochimaru(in naruto) but the good Orochimaru😂 lol.. also like Shikamaru gets lazy when it's not cyber related 😂
 
 
 ## About this blog 
-> This blog was created mainly about my own personal thoughts and tutorials on IT security because of my deep interest on infosec and CTI (Cyber Threat Intelligence) specifically, and in a bid to document my journey through the domains and intricacies of Information Security and related topics as well as my growth from n00b to elite XD. Anything on this blog was on my own writing and it's contents are things that I've learned and would love to share.
->> The writings also will be my future reference. Hopefully my little write ups here will be of great help and/or benefits.
+> Yeah you're welcome to my blog, maybe not a blog just things i'll be dumping here,Hopefully my noob writeups becomes of great help.
  
  
 ## Finally
